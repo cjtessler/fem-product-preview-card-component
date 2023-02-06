@@ -93,6 +93,10 @@ p {
   line-height: 1.3rem;
 }
 
+.image-container{
+  min-width: 300px;
+}
+
 img {
   max-height: 100%;
 }
@@ -107,7 +111,7 @@ img {
     display: flex;
     flex-direction: column;
     max-width: 95%;
-    max-height: 95%;
+    max-height: 85%;
     height: fit-content;
   }
 
